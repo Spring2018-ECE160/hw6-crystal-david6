@@ -11,3 +11,5 @@ Bonus (+5 points): Find an actual data file that you ingest with your program us
 Compile Steps:
 
 Output:
+average value= 538
+highest height: 8848
