@@ -6,5 +6,40 @@
 prints the last n lines. The program should behave rationally no matter how unreasonable the input or the value of n. Write the program so it makes the best use of available storage; lines should be stored as in the sorting program of Seciton 5.6, not in a two-dimensional array of fixed size.
 
 Compile Steps: 
-
+input:
+er
+rt
+ty
+yu
+ui
+io
+op
+as
+sd
+df
+fg
+gh
+hj
+jk
+kl
+io
+op
+as
+sd
+df
+fg
+gh
+hj
+jk
+kl
 Output:
+er
+rt
+ty
+yu
+ui
+io
+op
+as
+sd
+df
